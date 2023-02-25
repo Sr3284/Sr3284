@@ -15,9 +15,10 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Simple-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="C-plusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Haskell" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
   <img align="center" alt="LaTeX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
 </div>
   
